@@ -1,0 +1,29 @@
+
+
+body, h1 {
+	margin: 0;
+}
+
+body > div {
+	padding: 8px;
+}
+
+h1 {
+	background-color: #ddd;
+	font-family: sans-serif;
+	padding: 5px;
+}
+
+.example {
+	background-color: #eed;
+	border: thin dashed #540;
+	color: #540;
+	font-style: italic;
+	margin-left: 1em;
+	margin-right: 1em;
+	padding: 0.25em;
+}
+
+#controls {
+	background-color: #eee;
+}
